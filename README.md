@@ -70,8 +70,9 @@ Sim, o **Burger App** é um exemplo clássico de uma aplicação CRUD, que permi
 ## PRÉ-REQUISITOS:
 1. [**Node.js e npm**:](https://github.com/VILHALVA/CURSO-DE-NODEJS) Certifique-se de que você tem o Node.js e npm instalados.
 2. [**MySQL**:](https://github.com/VILHALVA/CURSO-DE-MYSQL) Um servidor MySQL em execução e as credenciais de acesso ao banco de dados.
-3. [**Expressjs**:](https://github.com/VILHALVA/CURSO-DE-EXPRESSJS) Framework web para Node.js, utilizado para lidar com requisições HTTP.
-4. [**Express-Handlebars:**](https://www.npmjs.com/package/express-handlebars) Engine de template para o Express, facilitando a renderização de páginas HTML.
+3. [**NODEJS** com **MYSQL**](https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL): Uso do NodeJS com o banco de dados MySQL.
+4. [**Expressjs**:](https://github.com/VILHALVA/CURSO-DE-EXPRESSJS) Framework web para Node.js, utilizado para lidar com requisições HTTP.
+5. [**Express-Handlebars:**](https://www.npmjs.com/package/express-handlebars) Engine de template para o Express, facilitando a renderização de páginas HTML.
 
 ## CREDITOS:
 - [PROJETO CRIADO PARA O CURSO DE HANDLEBARS](https://github.com/VILHALVA/CURSO-DE-HANDLEBARS)
